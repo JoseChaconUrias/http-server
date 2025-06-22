@@ -1,6 +1,6 @@
 # Simple Python HTTP Server
 
-This is a lightweight HTTP server written in Python using the `socket` mdoule. It listens for incoming HTTP requests on port **8080** and serves static HTML files based on the request path
+This is a lightweight HTTP server written in Python using the `socket` module. It listens for incoming HTTP requests on port **8080** and serves static HTML files based on the request path
 
 ## Getting Started
 
@@ -13,13 +13,13 @@ This is a lightweight HTTP server written in Python using the `socket` mdoule. I
 To run the server, `cd` into the cloned repo and open up a terminal. Run the following commond:
 
 ```bash
-python3 server.py
+python3 main.py
 ```
 
 On windows
 
 ```bash
-python server.py
+python main.py
 ```
 
 Upon Starting, the server will print:
